@@ -4,7 +4,7 @@
 **MSc Financial Engineering Student | Data Scientist**  
 **Quantitative Finance & Machine Learning Projects**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chiemerie-chinedu) | 📧 [Email](chiemerieevanc@gmail.com) | 📍 Nigeria  
+🔗 [LinkedIn](https://www.linkedin.com/in/chiemerie-chinedu) | 📧 [chiemerieevanc@gmail.com](mailto:chiemerieevanc@gmail.com) | 📍 Lagos, Nigeria
 
 Mathematics graduate transitioning into data science with a strong focus on financial applications. Building end-to-end ML models for pricing, risk, and customer analytics.
 
@@ -30,13 +30,10 @@ Built models for revenue prediction.
 Deep dive into GPT-2 mechanics and fine-tuning.  
 [View Repo](https://github.com/Assista123/LLM-Architecture-with-GPT-2-pretrained-weight)
 
-*(Add your Used Car Kaggle project once cleaned)*
-
 ## Skills  
 Python | pandas | scikit-learn | PyTorch | XGBoost | Time Series | Classification | Clustering  
 
 ## Education  
-**MSc Financial Engineering** (In Progress) – WorldQuant University
-**BSc Mathematics** – Nnamdi Azikiwe University 
-
-Thanks for visiting! Open to opportunities <!--
+**MSc Financial Engineering** (In Progress) – WorldQuant University  
+**BSc Mathematics** – Nnamdi Azikiwe University
+Thanks for visiting! Open to opportunities. 
