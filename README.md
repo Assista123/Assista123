@@ -36,4 +36,5 @@ Python | pandas | scikit-learn | PyTorch | XGBoost | Time Series | Classificatio
 ## Education  
 **MSc Financial Engineering** (In Progress) – WorldQuant University  
 **BSc Mathematics** – Nnamdi Azikiwe University
-Thanks for visiting! Open to opportunities. 
+
+Thanks for visiting! Open to opportunities.
