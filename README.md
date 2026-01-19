@@ -36,7 +36,7 @@ Deep dive into GPT-2 mechanics and fine-tuning.
 Python | pandas | scikit-learn | PyTorch | XGBoost | Time Series | Classification | Clustering  
 
 ## Education  
-**MSc Financial Engineering** (In Progress) – [WorldQuant University]  
+**MSc Financial Engineering** (In Progress) – WorldQuant University
 **BSc Mathematics** – Nnamdi Azikiwe University 
 
 Thanks for visiting! Open to opportunities <!--
