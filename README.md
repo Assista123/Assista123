@@ -10,6 +10,10 @@ Mathematics graduate transitioning into data science with a strong focus on fina
 
 ## Projects
 
+### Used Car Price Prediction (Kaggle – From Scratch)
+End-to-end regression with custom feature parsing, target encoding, and XGBoost tuning. Built independently.  
+[View Repo](https://github.com/Assista123/Used-Car-Price-Prediction-Kaggle) 
+
 ### Credit Risk Analysis for Microfinance in Ghana  
 *Classification | XGBoost | SHAP*
 Predicting loan defaults to minimize risk. Achieved high AUC with interpretable insights.  
