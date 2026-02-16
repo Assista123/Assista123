@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # Chiemerie Chinedu  
+
 **MSc Financial Engineering Student | Data Scientist**  
 **Quantitative Finance & Machine Learning Projects**  
 
@@ -10,7 +11,7 @@ Mathematics graduate transitioning into data science with a strong focus on fina
 
 ## Projects
 
-### Used Car Price Prediction (Kaggle – From Scratch)
+### Used Car Price Prediction (Kaggle)
 End-to-end regression with custom feature parsing, target encoding, and XGBoost tuning. Built independently.  
 [View Repo](https://github.com/Assista123/Used-Car-Price-Prediction-Kaggle) 
 
