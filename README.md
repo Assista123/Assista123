@@ -30,6 +30,12 @@ RFM analysis identifying high-value segments for retention strategies.
 Built models for revenue prediction.  
 [View Repo](https://github.com/Assista123/Sales-Forecasting-for-an-E-commerce-Startup-in-Kenya)
 
+### Time Series Forecasting – Unlabeled Yahoo Finance Asset (2018–2023)
+
+**Time Series | Prophet / ARIMA / XGBoost | Financial Metrics | Python**
+End-to-end forecasting on daily OHLCV data for a single equity or broad market index (ticker not specified in metadata). Handled non-stationarity, engineered lags/rolling features, tuned hyperparameters, and compared models. Addressed ARIMA's flat forecast limitation (random-walk behavior common in efficient markets) by prioritizing feature-based XGBoost and Prophet for better trend capture.
+[View Repo(https://github.com/Assista123/Yahoo-Finance-Time-Series-Forecasting-2018-2023)
+
 ### LLM Architecture with GPT-2  
 *Transformers | PyTorch | NLP*  
 Deep dive into GPT-2 mechanics and fine-tuning.  
