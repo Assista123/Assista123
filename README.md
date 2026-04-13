@@ -33,8 +33,17 @@ Forecasted daily prices for an equity/index using real Yahoo Finance data. Handl
 
 ### Modular-Next-Word-GPT
 *Transformers | PyTorch | NLP*  
-Explored GPT-2 architecture, attention mechanisms, and basic next word prediction. 
-[View Repo](https://github.com/Assista123/LLM-Architecture-with-GPT-2-pretrained-weight)
+Built a modular GPT-style model for next-word prediction using PyTorch, moving beyond basic tutorials to implement production-style architectural components.
+
+**Technical Highlights:**
+- **Modular Data Pipeline**: Implemented a custom `TextDataset` and `TextDataloader` to handle shifting token sequences for next-word prediction logic.
+- **Custom Transformer Components**: 
+  - Developed a custom **GELU (Gaussian Error Linear Unit)** activation class for smoother gradient flow compared to standard ReLU.
+  - Built a position-wise **Feed-Forward Network (FFN)** that expands representation dimensionality by 4x to increase model capacity.
+- **BPE Tokenization**: Integrated OpenAI’s `tiktoken` (GPT-2 encoding) to manage vocabularies and minimize "out-of-vocabulary" issues.
+- **Multi-Source Corpus**: Trained the model on a concatenated dataset of classic literature (Dracula, Frankenstein, Dorian Gray, and Jekyll & Hyde) to improve semantic variety.
+- **Architecture**: Configured for 124M parameters with 12 attention heads and 12 layers.
+[View Repo](https://github.com/Assista123/Modular-Next-Word-GPT)
 
 ## Skills & Technical Proficiencies
 
