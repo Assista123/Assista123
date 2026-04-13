@@ -54,6 +54,11 @@ Built a modular GPT-style model for next-word prediction using PyTorch, moving b
 **Core Libraries & Tools**  
 pandas | NumPy | scikit-learn | XGBoost | PyTorch | Prophet | SHAP | Matplotlib/Seaborn | Git | Jupyter/Colab
 
+**Data Engineering**
+High-Cardinality Feature Engineering | Modular Pipeline Constructio | Dataset/DataLoader Optimization.
+**Generative AI & LLMs***
+Transformer Architecture | Tokenization (BPE) | Embedding Layers | GELU Activations | Custom PyTorch Workflows.
+
 **Machine Learning & Concepts**  
 Regression | Classification | Time Series Forecasting | Clustering (RFM) | Feature Engineering | Imbalanced Data Handling | Hyperparameter Tuning | Model Interpretability (SHAP) | Cross-Validation
 
