@@ -26,10 +26,10 @@ Predicting loan defaults with class imbalance handling (SMOTE + weighting). Achi
 RFM analysis segmenting customers and identifying high-value groups contributing significantly to revenue. Provided retention strategy recommendations.  
 [View Repo](https://github.com/Assista123/Customer-Segmentation-for-a-Retail-Chain-in-Nigeria)
 
-### Time Series Forecasting – Unlabeled Yahoo Finance Asset (2018–2023)  
-*Time Series | Prophet / ARIMA / XGBoost | Financial Metrics*  
-Forecasted daily prices for an equity/index using real Yahoo Finance data. Handled non-stationarity & lags; addressed ARIMA's flat forecast (random-walk nature) by tuning XGBoost/Prophet for better trend capture. Included Sharpe ratio and volatility analysis.  
-[View Repo](https://github.com/Assista123/Yahoo-Finance-Time-Series-Forecasting-2018-2023)
+### Stock Returns Prediction & Market Regime Analysis (2015–2024) 
+*Returns-Based Modeling | Decade-Scale Dataset | Model Optimization - Bayesian Hyperparameter Tuning (Optuna): | Financial Validation*  
+A quantitative finance project applying machine learning to predict stock log-returns. Features a 10-year dataset analysis, stationarity transformations, and Bayesian-optimized ensemble models to identify market signals between 2015 and 2024.
+[View Repo](https://github.com/Assista123/Stocks_returns_prediction-2015-2024)
 
 ### Modular-Next-Word-GPT
 *Transformers | PyTorch | NLP*  
