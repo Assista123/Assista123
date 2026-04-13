@@ -26,11 +26,6 @@ Predicting loan defaults with class imbalance handling (SMOTE + weighting). Achi
 RFM analysis segmenting customers and identifying high-value groups contributing significantly to revenue. Provided retention strategy recommendations.  
 [View Repo](https://github.com/Assista123/Customer-Segmentation-for-a-Retail-Chain-in-Nigeria)
 
-### Sales Forecasting for an E-commerce Startup in Kenya  
-*Time Series | Forecasting*  
-Built predictive models for revenue forecasting in an African e-commerce context.  
-[View Repo](https://github.com/Assista123/Sales-Forecasting-for-an-E-commerce-Startup-in-Kenya)
-
 ### Time Series Forecasting – Unlabeled Yahoo Finance Asset (2018–2023)  
 *Time Series | Prophet / ARIMA / XGBoost | Financial Metrics*  
 Forecasted daily prices for an equity/index using real Yahoo Finance data. Handled non-stationarity & lags; addressed ARIMA's flat forecast (random-walk nature) by tuning XGBoost/Prophet for better trend capture. Included Sharpe ratio and volatility analysis.  
