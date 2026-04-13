@@ -31,9 +31,9 @@ RFM analysis segmenting customers and identifying high-value groups contributing
 Forecasted daily prices for an equity/index using real Yahoo Finance data. Handled non-stationarity & lags; addressed ARIMA's flat forecast (random-walk nature) by tuning XGBoost/Prophet for better trend capture. Included Sharpe ratio and volatility analysis.  
 [View Repo](https://github.com/Assista123/Yahoo-Finance-Time-Series-Forecasting-2018-2023)
 
-### LLM Architecture with GPT-2  
+### Modular-Next-Word-GPT
 *Transformers | PyTorch | NLP*  
-Explored GPT-2 architecture, attention mechanisms, and basic fine-tuning.  
+Explored GPT-2 architecture, attention mechanisms, and basic next word prediction. 
 [View Repo](https://github.com/Assista123/LLM-Architecture-with-GPT-2-pretrained-weight)
 
 ## Skills & Technical Proficiencies
