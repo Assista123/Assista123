@@ -5,9 +5,11 @@
 **MSc Financial Engineering Student | Aspiring Data Scientist**  
 **Quantitative Finance & Machine Learning Projects**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chiemerie-chinedu) | 📧 [chiemerieevanc@gmail.com](mailto:chiemerieevanc@gmail.com) | 📍 Lagos, Nigeria  
+🔗 [LinkedIn](https://www.linkedin.com/in/chiemerie-chinedu) | 📧 [chiemeriechinedu32@gmail.com](mailto:chiemeriechinedu32@gmail.com) | 📍 Lagos, Nigeria  
 
-Mathematics graduate transitioning into data science with a strong quantitative finance focus. Building end-to-end ML models for pricing, credit risk, forecasting, and customer analytics.
+MSc Financial Engineering student | Data & Product Builder
+Building data systems and applied ML for finance, agriculture and operational decision-making.
+Experience in data acquisition & cleaning, SQL-backed systems, RAG, and end-to-end product delivery.
 
 ## Projects
 
@@ -71,4 +73,5 @@ Credit Risk | Pricing Models | Customer Analytics | Financial Metrics (Sharpe, V
 **BSc Mathematics** – Nnamdi Azikiwe University
 
 Thanks for visiting!  
-Open to entry-level Data Scientist, Quantitative Analyst, or FinTech roles — especially remote/international opportunities. Feel free to reach out for discussions on projects or collaborations 🚀
+Open to Junior Data Scientist, Applied AI Role, Quantitative Analyst, or FinTech roles — especially remote/international opportunities. Feel free to reach out for discussions on projects or collaborations 🚀
+
