@@ -1,77 +1,94 @@
 ## Hi there 👋
 
-# Chiemerie Chinedu  
+# Chiemerie Chinedu
 
-**MSc Financial Engineering Student | Aspiring Data Scientist**  
-**Quantitative Finance & Machine Learning Projects**
+**MSc Financial Engineering Student | Data & Product Builder**  
+Building data systems and applied ML for finance, agriculture and operational decision-making.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/chiemerie-chinedu) | 📧 [chiemeriechinedu32@gmail.com](mailto:chiemeriechinedu32@gmail.com) | 📍 Lagos, Nigeria  
+Portfolio code: [github.com/Assista123](https://github.com/Assista123)
 
-MSc Financial Engineering student | Data & Product Builder
-Building data systems and applied ML for finance, agriculture and operational decision-making.
-Experience in data acquisition & cleaning, SQL-backed systems, RAG, and end-to-end product delivery.
+Experience in data acquisition & cleaning, SQL-backed systems, RAG, and end-to-end product delivery (Telegram/WhatsApp AI farm manager, poultry ERP, contribution-group tooling).
 
-## Projects
+---
 
-### Used Car Price Prediction (Kaggle)  
-*Regression | Feature Engineering | XGBoost Tuning*  
-Independent end-to-end pipeline with custom regex parsing, target vs label encoding comparison, and GridSearchCV. Tuned XGBoost achieved CV RMSE ≈73,146 (best overall).  
-[View Repo](https://github.com/Assista123/Used-Car-Price-Prediction-Kaggle)
+## Featured Projects
 
-### Credit Risk Analysis for Microfinance in Ghana  
-*Classification | XGBoost | SHAP Interpretability*  
-Predicting loan defaults with class imbalance handling (SMOTE + weighting). Achieved high AUC with SHAP explanations for "why denied" insights — key for financial compliance.  
-[View Repo](https://github.com/Assista123/Credit-Risk-Analysis-for-Microfinance-in-Ghana)
+### Farma Assista
+*AI conversational farm manager | Telegram & WhatsApp*  
+Live chat interface for poultry farmers: flock management, feed/egg/mortality/weight logging, stock, health support, reports and deviation alerts.  
+Stack: Node.js, Grammy, WhatsApp Business API, Gemini, Supabase, Redis.  
+[View Repo](https://github.com/Assista123/farma-assista)
 
-### Customer Segmentation for a Retail Chain in Nigeria (RFM)  
-*Clustering | Customer Analytics*  
-RFM analysis segmenting customers and identifying high-value groups contributing significantly to revenue. Provided retention strategy recommendations.  
-[View Repo](https://github.com/Assista123/Customer-Segmentation-for-a-Retail-Chain-in-Nigeria)
+### Farm ERP
+*Django poultry farm ERP*  
+Multi-role web system for farm units, pens, flocks, feed procurement & stock, drugs, operational events, shop sales and cost/margin-oriented data.  
+[View Repo](https://github.com/Assista123/farm_erp)
 
-### Stock Returns Prediction & Market Regime Analysis (2015–2024) 
-*Returns-Based Modeling | Decade-Scale Dataset | Model Optimization - Bayesian Hyperparameter Tuning (Optuna): | Financial Validation*  
-A quantitative finance project applying machine learning to predict stock log-returns. Features a 10-year dataset analysis, stationarity transformations, and Bayesian-optimized ensemble models to identify market signals between 2015 and 2024.
+### Agricultural Extension RAG (TRI AI)
+*Hybrid RAG | Team Tsavo – 9th of 25*  
+Smart retrieval over 695 agricultural extension documents. BM25 + BGE dense retrieval, query expansion, HyDE, RRF and dual cross-encoder reranking.  
+TRI AI Saturday Cohort 10 (with Google DeepMind).  
+[View Repo](https://github.com/Assista123/TRI-AI-Agricultural-Extension-RAG)
+
+### Institutional Regulatory Advisory Expert System
+*Django + rule-based NLP + TF-IDF*  
+Research assignment (Nnamdi Azikiwe University). 89 policy clauses, 26 deterministic rules; constrained, evidence-grounded advisory responses with human-escalation boundaries.  
+[View Repo](https://github.com/Assista123/hybrid_system)
+
+### Credit Risk Classification
+*Classification | XGBoost / LightGBM | SHAP*  
+Imbalanced credit data (\~22% default). Class weighting + SMOTE; ROC-AUC ≈ 0.95; SHAP explanations for non-technical stakeholders.  
+[View Repo](https://github.com/Assista123/Credit-Risk-Classification)
+
+### Stock Returns & Market Regime Analysis (2015–2024)
+*Time series | API data acquisition | Ensemble models*  
+Decade-scale OHLCV data via Yahoo Finance API; feature engineering (returns, momentum, volatility); strict time-series validation; strategy-style evaluation.  
 [View Repo](https://github.com/Assista123/Stocks_returns_prediction-2015-2024)
 
-### Modular-Next-Word-GPT
-*Transformers | PyTorch | NLP*  
-Built a modular GPT-style model for next-word prediction using PyTorch, moving beyond basic tutorials to implement production-style architectural components.
+### Customer Segmentation (RFM)
+*Clustering | Retail analytics*  
+RFM segmentation for a Nigerian retail chain; high-value groups and retention recommendations.  
+[View Repo](https://github.com/Assista123/Customer-Segmentation-for-a-Retail-Chain-in-Nigeria)
 
-**Technical Highlights:**
-- **Modular Data Pipeline**: Implemented a custom `TextDataset` and `TextDataloader` to handle shifting token sequences for next-word prediction logic.
-- **Custom Transformer Components**: 
-  - Developed a custom **GELU (Gaussian Error Linear Unit)** activation class for smoother gradient flow compared to standard ReLU.
-  - Built a position-wise **Feed-Forward Network (FFN)** that expands representation dimensionality by 4x to increase model capacity.
-- **BPE Tokenization**: Integrated OpenAI’s `tiktoken` (GPT-2 encoding) to manage vocabularies and minimize "out-of-vocabulary" issues.
-- **Multi-Source Corpus**: Trained the model on a concatenated dataset of classic literature (Dracula, Frankenstein, Dorian Gray, and Jekyll & Hyde) to improve semantic variety.
-- **Architecture**: Configured for 124M parameters with 12 attention heads and 12 layers.
+### Used Car Price Prediction (Kaggle)
+*Regression | Feature engineering | XGBoost*  
+End-to-end pipeline with custom parsing, encoding comparison and tuned XGBoost.  
+[View Repo](https://github.com/Assista123/Used-Car-Price-Prediction-Kaggle)
+
+### Modular Next-Word GPT
+*Transformers | PyTorch*  
+GPT-style model from scratch: custom data pipeline, GELU, FFN, BPE (tiktoken), multi-novel corpus.  
 [View Repo](https://github.com/Assista123/Modular-Next-Word-GPT)
 
-## Skills & Technical Proficiencies
+---
 
-**Programming Languages**  
-- Python (Intermediate)  
-- R (Beginner)
+## Skills
 
-**Core Libraries & Tools**  
-pandas | NumPy | scikit-learn | XGBoost | PyTorch | Prophet | SHAP | Matplotlib/Seaborn | Git | Jupyter/Colab
+**Languages & data**  
+Python · SQL · R (basic) · Advanced Excel (Power Query, PivotTables)
 
-**Data Engineering**
-High-Cardinality Feature Engineering | Modular Pipeline Constructio | Dataset/DataLoader Optimization.
-**Generative AI & LLMs***
-Transformer Architecture | Tokenization (BPE) | Embedding Layers | GELU Activations | Custom PyTorch Workflows.
+**Analysis & ML**  
+pandas · NumPy · scikit-learn · XGBoost · LightGBM · SHAP · time-series validation · clustering (RFM) · imbalanced learning
 
-**Machine Learning & Concepts**  
-Regression | Classification | Time Series Forecasting | Clustering (RFM) | Feature Engineering | Imbalanced Data Handling | Hyperparameter Tuning | Model Interpretability (SHAP) | Cross-Validation
+**Product & systems**  
+Django · Node.js · Supabase · Redis · Telegram (Grammy) · WhatsApp Business API · data modelling · RAG pipelines
 
-**Domain Focus**  
-Credit Risk | Pricing Models | Customer Analytics | Financial Metrics (Sharpe, Volatility) | Quantitative Finance Applications
+**Visualisation & tooling**  
+Power BI · Tableau · Matplotlib / Seaborn · Git · Jupyter
+
+**Focus areas**  
+Data acquisition & cleaning · SQL-backed operational systems · cost & margin analytics · applied RAG / NLP · agricultural & financial data
+
+---
 
 ## Education
 
 **MSc Financial Engineering** (In Progress) – WorldQuant University  
 **BSc Mathematics** – Nnamdi Azikiwe University
 
-Thanks for visiting!  
-Open to Junior Data Scientist, Applied AI Role, Quantitative Analyst, or FinTech roles — especially remote/international opportunities. Feel free to reach out for discussions on projects or collaborations 🚀
+---
 
+Open to **Junior Data Scientist**, applied AI, quantitative analysis, and data/product roles — especially remote opportunities across Africa and internationally.
+
+Thanks for visiting — happy to discuss projects or collaborations.
